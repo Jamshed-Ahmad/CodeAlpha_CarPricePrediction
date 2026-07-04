@@ -138,14 +138,13 @@ The following evaluation metrics were used:
 
 ## Correlation Heatmap
 
-> Save your heatmap screenshot inside the `images` folder.
 
 ```text
-images/heatmap.png
+heatmap.png
 ```
 
 ```markdown
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 ```
 
 ---
@@ -153,7 +152,7 @@ images/heatmap.png
 ## Feature Importance
 
 ```markdown
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 ```
 
 ---
