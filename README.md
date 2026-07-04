@@ -158,19 +158,6 @@ images/heatmap.png
 
 ---
 
-## Actual vs Predicted Prices
-
-```markdown
-![Actual vs Predicted](images/actual_vs_predicted.png)
-```
-
----
-
-## Selling Price Distribution
-
-```markdown
-![Distribution](images/distribution.png)
-```
 
 ---
 
