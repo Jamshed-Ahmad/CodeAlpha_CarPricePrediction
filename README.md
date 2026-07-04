@@ -184,7 +184,7 @@ CodeAlpha_CarPricePrediction
 Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_CarPricePrediction.git
+git clone https://github.com/Jamshed-Ahmad/CodeAlpha_CarPricePrediction.git
 ```
 
 Move into the project directory
