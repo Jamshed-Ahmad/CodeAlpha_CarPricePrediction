@@ -236,8 +236,8 @@ jupyter notebook
 
 Machine Learning Intern | Data Science Enthusiast
 
-- LinkedIn: *Add your LinkedIn profile*
-- GitHub: *Add your GitHub profile*
+- LinkedIn: *www.linkedin.com/in/jamshed-ahmad007*
+- GitHub: **
 
 ---
 
